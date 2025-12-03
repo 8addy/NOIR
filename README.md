@@ -16,7 +16,6 @@ All product data is stored statically in `frontend/src/data/mockData.js`. The AP
 - Cart data is stored in **localStorage** (browser-based)
 - All product data is **static** and embedded in the frontend
 - Reviews and contact form submissions are handled client-side (logged to console)
-- Perfect for **GitHub Pages** deployment or any static hosting service
 
 ---
 
